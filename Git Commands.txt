@@ -1,0 +1,51 @@
+git init
+git --version
+git remote add origin *new repo link*
+git remote -v( Rights check )
+git help
+git add *file name*
+git add .
+git log
+clear
+git clone *paste url here*
+git remote set-url origin *paste existing repo url here* (yet to be explored!)
+touch *file_name.txt* (Create file)
+.gitinore
+------------------------------------------------------------------------------
+
+git pull origin master (If have same histories)
+git fetch (will fetch the remote repo content to local repo)
+**this wont work with having unrelated histories**
+git pull origin master (This will perform fetch and merge with checking the related histories)
+**Won't work in with having unrelated histories**
+git pull origin master --allow-unrelated-histories
+
+--------------------------------------------------------------------------------
+
+*Branch created from web(GIT) are remote branches*
+*Branch created from Git Bash are Local Branches*
+**Local branch are limited for that respective Local Repository**
+*Local branches becomes remote branch after commiting files to the local branch*
+git branch *Local branch name to be created*
+git checkout *Local branch name* (Branch will be switched)
+git branch --all (will list all local branches)
+git branch -a (will list all local branches)
+git branch --list (will list all local branches)
+git branch -b *new Local branch name to be created* (will algo get switched to new created branch)
+git branch -d *Local branch name* (delete the local branch)
+git branch -D *Local branch name* (delete the local branch without merging)
+
+#################################################################################
+
+git init
+git status
+git add .
+git status
+git config --global user.name "username"
+git config --global user.email "Email@g.com"
+git remote add origin *new repo link*
+git remote set-url origin *paste existing repo url here*
+git remote -v( Rights check )
+git commit -m "message!"
+git push -u origin master
+git push -f origin master
