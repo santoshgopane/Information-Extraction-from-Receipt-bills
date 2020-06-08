@@ -1,0 +1,48 @@
+
+Pujarafoods LLP
+lyfe by soul Garden Bistro
+Palladium FC 04, No 142,
+Velachery Main Road
+Chennai-600042
+GSTIN: 33AAPFP2374MIZR
+Type Table
+Table Number: 1
+Bill No. 36
+steward:
+Cashier:Manager
+Date:2019-10-26 15:39:35
+Kots: 16
+Covers:2
+Item
+Qty
+Amt
+Mexican Vegan
+Salad
+1
+249.00
+Italian
+Margherita
+1
+499.00
+Kombucha Kiwi
+1
+119.00
+Total Qty:
+3
+SubTotal:
+867.00
+GST@5%
+37.40
+CGST @2.5
+18.70
+SGST @2.5
+18.70
+Round Off:
+-0.40
+Total Invoice Value
+904
+Payment Detai.l:
+Debitcard
+904.00
+Thank you, visit again !
+Powered by - POSist

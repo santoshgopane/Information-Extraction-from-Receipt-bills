@@ -1,0 +1,74 @@
+
+ZABA
+TAX INVOICE
+Inditex Frent Retar4 India Pvt Ltd
+Ambience Corporate Off Office ice Tower 2
+kevel 8an-Plot No. 3, Unit t No: 1
+(office 1)
+Ambience Island, NH-8, Gurgaon 122002,
+Haryana, India
+CIN: U74900HR2009FTC043768
+Tel +91 124 497 3500
+Fax: +91 124 497 3510
+WWW w.zara.com/in
+GSTIN 3384CCI15660129
+Phoenix Marketcity Mall Chennai
+UG-17, Upper GroundFloor PIpt. in
+Northern and Western part of old door
+no. 66 New door no 142, Velachery
+Saidapet Taluk TAMILNADI 600042
+Rel 044-66813700/7017702
+Store 9184
+Date 27-12-2019 Time 20:30
+Invoice number 9184-04-$062664
+Trans 83733
+TSP CODE QTY
+PRICE
+ANOUNT
+T
+Bty6203
+1
+2,590.00
+2,590.00 P
+10001115 0557533380044 TROUSERS
+2,312,50 Central tax6.009
+138,75
+2,312.50 State tax 6*00%
+138.75
+TOTAL
+1
+27590.00
+@al aline card.
+INR 2,590,00
+Card Number
+**********x8355
+VISA-PIN
+Exp, Date XXXX
+WID 444602423438401
+TID: 13438401
+BETCH NUM 3
+INV. NUM 176
+RSL NUM
+0918404062664
+APPR. CODE 374987
+RRN 936120238076
+Date 27-12-2019
+Time 20:29:53
+Total Net
+2,312.50
+Central tax 6.00%
+138.75
+Total Net
+2,312.50
+State tax 6.00%
+138.75
+*****
+THANKS FOR YOUR VISIT
+*****
+Nithe Unlessotherwisdastated,: tax on
+this invoice is not Payable under
+reverse charge
+Ths is a cputer senerrated invoice
+and hence does not require any
+signature
+Employee 7331
