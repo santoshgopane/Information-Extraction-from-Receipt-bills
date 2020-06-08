@@ -1,0 +1,64 @@
+
+TAX INVOICE
+METRO
+Metro
+UNIT CITY
+No Brands Ltd (MKS-CHS07)
+F11 1ST FLOOR PHOENIX MARKET
+GST
+MALL VELACHERRY MAIN RD.CHENNAI 6
+No
+Bill
+No
+33AAACM4754E1ZS
+T
+143303 Date 12/10/2019 15:10:42
+Details Name of Receiver:
+1 MR MANOJKUMAR
+Mob Add: No.: 8486768764
+State: TN
+vEno
+Particulars
+hmo
+Hsn
+Unit Rate
+Qty
+Amount
+118-204592-C-8-FOOTWEAR
+6402
+3995
+elmno
+3995
+CGST @ 9.00%
+304.70
+SGST @ (9.00%
+nd
+304:70
+ITEM TOTAL
+Emo
+3995
+Gross Total
+rero
+003995
+Promo Discount
+0,00
+Net Total
+3995
+Total SGSTIUTGST
+304.70
+Total CGST:
+304.70
+RBL HDFCT
+INR
+3995
+TOTAL
+3995
+RECEIVED
+AMOUNT
+Amount in Words Three Thousand Nine
+Hundred Ninety Five
+You were served by SARIDHA
+No Exchange on Bags, Belts & Sales
+FIND YOUR PAIR
+PHONE: 04466513 13301/6665 0215
+EEmall

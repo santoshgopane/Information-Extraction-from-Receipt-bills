@@ -1,0 +1,87 @@
+
+3 0 1 0 3
+Tax Invoice
+ADITYA BIRLA FASHION AND RETAIL LIMITED
+Paritaloons Division
+Phoenix Market City,
+Velachery Main Road
+Velachery Chennai-6000
+Phone 9513703068
+GISTIN N. 33AAECP2371C1ZW
+C'ompany PAN: AAECP2371C
+RECEIPT NO.
+P067002I19010379
+Store ID:P0Ei7
+Till : P067002
+30-10-2019 17:08
+Cashier 357328
+Cashier Name: Balaji
+lame: kowsalya 9176172306
+EAN CODE
+QTY
+MRP
+VALUE
+HISN ITEMNAME
+DISCX
+DISC AMT
+AXRATE
+ETAM
+8907819235819
+1 1899.00
+1899.00
+61211 NPAU AURELIA KU
+CGST6.01% SGST6.00%
+1899.00
+11
+1
+5.00
+5.00
+4202 PTNS PT-PAPRBG-
+CGST9.0)% SGIST9,00%
+5.00
+Sub Total
+1699.78
+TAX
+TAXABLE AMT
+RATE
+TAX AMOUNT
+CGST
+1695.54
+6.00 %
+101.73
+4.24
+9,00 %
+0.38
+SGST
+1695.54
+61,00 %
+101.73
+4.24
+9.00 %
+0.38
+Total
+1904
+Tender
+Card Payment
+1904,00
+Total Savings
+0.00
+Iten Purchased
+2
+Thank you for sharing your experience
+For any queries, please call
+Customer Care we 1800 103 7527
+Join us on WWW facebook com/pantaloons
+For points balance SMS 'MYGC' to "575758"
+*Net Amt. Inclusive of applicable Laxes
+This document is to be treated as ax
+nvoice to the extent of supply of
+taxable goods and bill of supply to the
+extent of supply of exempted goods
+Sale is Ex-showroom
+This is a computer generated invoice &
+should be treated as signed by
+ain authorized signatory
+P,T.0 : TERMS & CONDITIONS
+NAMASTE !!
+No, of Print : 1

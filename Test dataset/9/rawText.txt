@@ -1,0 +1,90 @@
+
+START
+Shoppers Stop Ltd
+MAC--UALACHERY CHENNAI
+PHOENIX MARKET CITY MALL UG51 UALACHERY
+MAIN ROAD Tami Nadu
+400042 CHENNAI TN
+Tel :0000000000
+CIN : L51900MH1997PLC108798
+GSTIN : 33AABCS4383A1ZS
+Date: 25/12/2019
+Time: 17:00
+Cash Memo NO: 20674
+Store: 554
+Register 1
+Till No: 57304
+Cashier: 7057304-A2hmath Rasheed
+CASH MEMO
+0T1131RD113137K74ARNKDO
+Customer 554001005790
+Amritha
+Mobile No: ***99
+Emai ID: mac@shoppersstop.com
+RCM appl icable (Yes/No) No
+Item
+Description
+MRP
+Disc
+Amount aty Un/UQC
+HSN/SAC Code
+GST:
+773602040605
+Lipstick Ruby Woo RM.
+1700
+0
+1700
+1
+U
+33041000
+CGST 9: SGST 9:
+Sales Assoc. Arul
+P
+773602284580
+LIPSTICK LIPSTICKS MEHR.
+1700
+0
+1700
+1
+U
+33041000
+CGST 9: SGST 9:
+Sales Assoc. Arul P
+TaxDesc.
+Taxable
+Rate
+Tax
+SGST 9:
+2881.3
+9%
+259.32
+CGST 9:
+2881.36
+9:
+259.32
+Total
+518.64
+Total Amount
+3400.00
+Round off Amt.
+0.00
+Cash
+3400.00
+Total Tender
+3400.00
+Change Returned
+0.00
+Total Number of Item / QTY
+2/2
+This document is tax invoice for supply
+of taxable goods and bill of Supply
+for supply of exempted goods
+GST No. pr inted on invoice will be
+final and any correction of GST No.
+of customer will not be accepted later
+Customer Copy / ORIGINAL FOR RECIPIENT
+You could have earned up to 102.0
+Points as a First Citizen Member
+Terms and conditions & exclusions apply.
+Thank You For Visiting Shoppers Stop
+Shop Onl ine at Shoppersstop.co

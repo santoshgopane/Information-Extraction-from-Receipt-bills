@@ -1,0 +1,38 @@
+
+ANNA VILAAS
+VELACHERY. -e CHENNAI
+PHOENIX MALL
+GSTIN I 33ADTFS5376H1ZH
+COUNTER SALE
+TOKEN NO:4
+Bill No :AC\57142
+Date 25/Sep/2019
+Time 11:14:04
+Salesman:
+Item
+Rate
+Qty
+Amt
+Mineral Water
+38.00
+1
+38.00
+Paneer Oothappam 143.00
+1
+143.00
+No of item I 2 No Qty :2
+K-0004
+Subtota
+181.00
+CGST
+4.53
+SGST
+4.53
+Round Off
+-0.05
+Total Amount
+190.00
+THANK YOU !!! VISIT AGAIN !!!
+Username : bill
+System Name OESKTOP-8D1TB9U
+Amount To Pay Rs 190.00
